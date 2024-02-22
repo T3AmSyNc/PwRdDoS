@@ -45,5 +45,5 @@
 
 <h3 style="color:purple"> THANKS FOR USING OUR TOOL </h3>
 
-``©T34mV18rs``
+``©T3AmSyNc``
 
