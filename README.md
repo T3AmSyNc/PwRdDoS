@@ -35,17 +35,13 @@
 <div>
 <h1 style="color:red" align="center"> About Us </h1>
 
-<img src="https://cdn.discordapp.com/attachments/870740780938047520/871007159150837820/20210610_164346.jpg">
 
-<p><b>T34m V18rs ( Team Virus ) is a Bangladeshi FB Spamming & Termux Hacker Group..We make working tools for termux..You can reach us by visiting this links.. Thank You So Much For Using Our Tool(s)</b></p>
+
+<p><b>TEAM SYNC THE INDIANA EAGLE FOR HACKERS .....We make working tools for termux..You can reach us by visiting this links.. Thank You So Much For Using Our Tool(s)</b></p>
 
 <p style="color:purple"><b>Connect With Us:</b></p>
 
 ``(Tap To Redirect)``
-
-[![Github](https://img.shields.io/badge/Facebook-FBGroup-blue?style=for-the-badge&logo=facebook)](https://facebook.com/groups/mohinhossen)
-[![Github](https://img.shields.io/badge/Facebook-FBPAGE-blue?style=for-the-badge&logo=facebook)](https://facebook.com/TeamVirusOfficial)
-[![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)](https://t.me/Crackerspace)
 
 <h3 style="color:purple"> THANKS FOR USING OUR TOOL </h3>
 
