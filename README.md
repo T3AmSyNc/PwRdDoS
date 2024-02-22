@@ -18,7 +18,7 @@
 - $ `pkg install git`
 - $ `pkg install figlet`
 - $ `git clone https://github.com/T3AmSyNc/PwRdDoS/`
-- $ `cd V-DdoS`
+- $ `cd PwRdDoS`
 - $ `chmod +x V-DdoS.py`
 - $ `python2 V-DdoS.py`
 
