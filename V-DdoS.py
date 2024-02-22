@@ -19,7 +19,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet V-DdoS")
+os.system("figlet SYNC")
 print
 print "Coded By : AHMAD KASHU"
 print "Author   : TEAM SYNC"
