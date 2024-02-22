@@ -33,7 +33,7 @@ port = input("Port       : ")
 os.system("clear")
 print("\033[93m")
 os.system("figlet DdoS Attack")
-print("Team : T34m V18rs")
+print(" Team : TEAM SYNC ON TOP ")
 print ("\033[92m")
 print "[TEAM                    ] 0% "
 time.sleep(5)
