@@ -20,12 +20,12 @@
 - $ `git clone https://github.com/T3AmSyNc/PwRdDoS/`
 - $ `cd PwRdDoS`
 - $ `chmod +x Sync-Os.py`
-- $ `python2 Sync-Os.py`
+- $ `python2 Sync_Os.py`
 
 <p><b>To Run</b></p>
 
 - $ `cd PwRdDoS`
-- $ `python2 Sync-Os.py`
+- $ `python2 Sync_Os.py`
 
 <p><b><i> Your Tool Install & Setup Done!!..Now Go To Google & Search</i></b>`Website IP Finder`<b><i>Now  Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..</b></i></p>
 
